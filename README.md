@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bobcatcub
 - 👀 I’m interested in building CEO dashboards and HR dashboards
 - 🌱 I’m currently learning SQL, Python and datasets
-- 💞️ I’m looking to collaborate on exciting tasks that help team and businesses excel
+- 💞️ I’m looking to collaborate on exciting tasks that help teams and businesses excel
 - 📫 How to reach me bm.triple.you@gmail.com
 - ✨️ fun fact true love inspires true success
 
